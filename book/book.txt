@@ -1,0 +1,5 @@
+data need to be changed is all the data must be wrapped in form tag and make on submit to one handlesubmit function
+
+every input need to have a name that name must match to what i write
+
+input event onchange --> handleChange
